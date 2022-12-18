@@ -2,7 +2,7 @@ import React from 'react'
 import '../styles/App.css';
 const App = () => {
 
-  const handleClick = (event) =>{
+  co
     // use console.log
     console.log(`Button id is:-${event.target.id}`);
 
@@ -18,4 +18,4 @@ const App = () => {
 }
 
 
-export default App;
+export default App;nst handleClick = (event) =>{
